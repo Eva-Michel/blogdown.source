@@ -34,22 +34,22 @@ defaultContentLanguageInSubdir = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, or `dark`.
-  color_theme = "default"
+  color_theme = "dark"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
-  font = "default"
+  font = "playfair"
 
   # Your details.
   name = "Eva Michel"
-  role = "Student at UMONS (University of Mons, Belgium)"
+  role = "Etudiante à l'UMONS (University of Mons, Belgium)"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
   organizations = [ { name = "University of Mons", url = "http://www.umons.ac.be" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "moi_profil.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "Eva.Michel@student.umons.ac.be"
   address = "Plaine de Nimy/Pentagone 3D, 8 avenue du champ de mars, 7000 Mons, Belgium"
   office_hours = "Please, send me an email for appointment"

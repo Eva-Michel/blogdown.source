@@ -10,8 +10,11 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Biology",
-    "..."
+    "La biologie ( surtout la zoologie, la science de l'évolution et la biochimie)",
+    "La lecture",
+    "Le sport",
+    "La cinématographie",
+    " L'astromie"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -32,6 +35,6 @@ weight = 5
 
 +++
 
-# About Me
+# A mon sujet
 
-I am student at the University of Mons, Belgium... [tell here a little bit about you, using Markdown formatting]
+Je suis étudiante en 2e bachelier section Biologie, à l'Umons. J'ai également pratiqué de la musique pendant 10 ans. Actuellement, je suis des cours dans le domaine des arts martiaux.
