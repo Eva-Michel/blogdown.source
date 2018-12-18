@@ -29,8 +29,8 @@ weight = 5
 #  year = 2021
 
 [[education.courses]]
-  course = "My orientation"
-  institution = "My high school"
+  course = "Lieux de mon cursus"
+  institution = "L'Umons, Avenue du champs de mars 8, 7000 Mons"
   year = 2018
 
 +++

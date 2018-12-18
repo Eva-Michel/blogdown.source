@@ -3,13 +3,13 @@
 date = "2018-09-24"
 
 # Project title.
-title = "My project"
+title = "Mes projets"
 
 # Project summary to display on homepage.
-summary = "A short summary of my project."
+summary = "Toujours aller de l'avant"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "project.jpg"
+image_preview = "cool-wallpaper-forest-hawaii-38136.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

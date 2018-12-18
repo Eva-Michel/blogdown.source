@@ -25,19 +25,19 @@ filter_default = 0
 # Use "*" tag to show all projects or an existing tag prefixed with "." to filter by specific tag.
 # To remove toolbar, delete/comment all instances of `[[filter]]` below.
 [[filter]]
-  name = "All"
+  name = "Tous"
   tag = "*"
   
 [[filter]]
-  name = "Ecology"
+  name = "Ecologie"
   tag = ".ecology"
 
 [[filter]]
-  name = "Biology"
+  name = "Biologie"
   tag = ".biology"
 
 [[filter]]
-  name = "Other"
+  name = "Autre"
   tag = ".miscellaneous"
 
 +++
